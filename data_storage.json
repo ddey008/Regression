@@ -1,0 +1,112 @@
+[
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2023-08-21",
+    "END DATE": "2023-09-06",
+    "USAGE (kWh)": -184.4,
+    "Consumption (kWH)": 310.6,
+    "Solar Export(kWH)": 495.0,
+    "Average temp(High)": 85.1,
+    "Average temp(Low)": 54.1
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2023-09-07",
+    "END DATE": "2023-10-05",
+    "USAGE (kWh)": -239.1,
+    "Consumption (kWH)": 343.8,
+    "Solar Export(kWH)": 582.9,
+    "Average temp(High)": 83.3,
+    "Average temp(Low)": 54.1
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2023-10-06",
+    "END DATE": "2023-11-05",
+    "USAGE (kWh)": -194.8,
+    "Consumption (kWH)": 317.1,
+    "Solar Export(kWH)": 511.9,
+    "Average temp(High)": 75.6,
+    "Average temp(Low)": 51.1
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2023-11-06",
+    "END DATE": "2023-12-06",
+    "USAGE (kWh)": -115.37,
+    "Consumption (kWH)": 302.23,
+    "Solar Export(kWH)": 417.6,
+    "Average temp(High)": 65.8,
+    "Average temp(Low)": 44.8
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2023-12-07",
+    "END DATE": "2024-01-05",
+    "USAGE (kWh)": 18.5,
+    "Consumption (kWH)": 323.6,
+    "Solar Export(kWH)": 305.1,
+    "Average temp(High)": 57.6,
+    "Average temp(Low)": 41.2
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-01-06",
+    "END DATE": "2024-02-05",
+    "USAGE (kWh)": 70.18,
+    "Consumption (kWH)": 344.68,
+    "Solar Export(kWH)": 274.5,
+    "Average temp(High)": 59.5,
+    "Average temp(Low)": 41.4
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-02-06",
+    "END DATE": "2024-03-06",
+    "USAGE (kWh)": -57.1,
+    "Consumption (kWH)": 332.4,
+    "Solar Export(kWH)": 389.5,
+    "Average temp(High)": 60.8,
+    "Average temp(Low)": 40.6
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-03-07",
+    "END DATE": "2024-04-06",
+    "USAGE (kWh)": -258.34,
+    "Consumption (kWH)": 295.46,
+    "Solar Export(kWH)": 553.8,
+    "Average temp(High)": 63.3,
+    "Average temp(Low)": 40.6
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-04-08",
+    "END DATE": "2024-05-06",
+    "USAGE (kWh)": -346.5,
+    "Consumption (kWH)": 315.7,
+    "Solar Export(kWH)": 662.1,
+    "Average temp(High)": 68.2,
+    "Average temp(Low)": 42.4
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-05-07",
+    "END DATE": "2024-06-05",
+    "USAGE (kWh)": -440.3,
+    "Consumption (kWH)": 318.2,
+    "Solar Export(kWH)": 758.5,
+    "Average temp(High)": 72.5,
+    "Average temp(Low)": 46.0
+},
+{
+    "TYPE": "Electric billing",
+    "START DATE": "2024-06-06",
+    "END DATE": "2024-07-07",
+    "USAGE (kWh)": -349.9,
+    "Consumption (kWH)": 413.3,
+    "Solar Export(kWH)": 763.2,
+    "Average temp(High)": 80.8,
+    "Average temp(Low)": 50.9
+}
+]
